@@ -4,7 +4,7 @@
     <groupId>training.time-tracker</groupId>
     <artifactId>time-tracker-parent</artifactId>
     <packaging>pom</packaging>
-    <version>SNAPSHOT-0.0.1</version>
+    <version>SNAPSHOT-1.2.${v}</version>
     <name>Time Tracke </name>
     <description>
         This is a simple Maven / Java web project.
